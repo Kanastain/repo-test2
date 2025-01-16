@@ -12,6 +12,10 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, consequuntur asperiores. Laudantium autem
         ad recusandae culpa, distinctio numquam impedit reiciendis quidem inventore, neque ullam optio rerum
         exercitationem omnis aspernatur ut.</p>
+
+    <ul>
+        <li>coba aja</li>
+    </ul>
 </body>
 
 </html>
